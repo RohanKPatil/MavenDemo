@@ -1,0 +1,8 @@
+---
+applications:
+- name: MavenDemo
+  memory: 512M
+  host: MavenDemo
+  domain: mybluemix.net
+  services:
+  - Natural Language Understanding-mq
